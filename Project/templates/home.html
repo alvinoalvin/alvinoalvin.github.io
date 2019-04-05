@@ -1,0 +1,98 @@
+<!-- Start:content -->
+<div class="content">
+    <!--<button class="bTT"><img src="imgs/backtotop-1.png" alt="BBT"></button>-->
+    <!--Start: intro-->
+    <div class="intro" class="innerCont">
+        <h1>About our brand</h1>
+        {%for text in intros%}
+            <div class="text">
+                <p>{{text}}</p>
+            </div>
+        {% endfor %}
+    </div>
+    <!--End: intro-->
+    
+    <!--Start: product-->
+     <div class="product" class="innerCont">
+         <h1>Our Horses</h1>
+         <p>{{description}}</p>
+         <!--Start: prodMenu-->
+         <div class="prodMenu">
+            <!--Start: show-->
+            <div class=prod id="show">
+                <a href="catalogue.php?Type='SHOW'">
+                    <img src="imgs/show.jpg"></img><br>Show Horses
+                </a>
+            </div> 
+            <!--End: show-->
+            <!--Start: war-->
+            <div class=prod id="war">
+                <a href="catalogue.php?Type='WAR'">
+                    <img src="imgs/war.jpg"></img><br>War Horses
+                </a>
+            </div>
+            <!--End: war-->
+            <!--Start: work-->
+            <div class=prod id="work">
+                <a href="catalogue.php?Type='WORK'">
+                    <img src="imgs/work.jpg"></img><br>Work Horses
+                </a>
+            </div>
+            <!--End: work-->
+            <!--Start: carriage-->
+            <div class=prod id="carriage">
+                <a href="catalogue.php?Type='CARRIAGE'">
+                    <img src="imgs/carriage.jpg"></img><br>Carriage Horses
+                </a>
+            </div>
+            <!--End: carriage-->            
+        </div>
+        <!--End: prodMenu-->
+    </div>
+    <!--End: product-->
+    
+    <!--Start: contact-->
+    <div class="contact" class="innerCont">
+            <h1>Contact Us</h1>
+            <!--Start:contact1-->
+            <div class="cont">
+                <table>
+                    <tr>
+                        <td><strong>Phone number: </strong>{{phonenum}}</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Email: </strong>
+                            <a href="mailto:{{email}}">{{email}}</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><strong>Address: </strong>{{address}}</td>
+                    </tr>
+                </table>
+            </div>
+            <!--End:contact1-->
+            
+            <!--Start:contact2-->
+            <div class="cont">
+                <table>
+                    {%for key,day in week%}
+                    <tr>
+                        <td><strong>{{key}}</strong></td>
+                        <td>{{day}}</td>
+                    </tr>
+                    {%endfor%}
+                   
+                </table>
+            </div>
+            <!--End:contact2-->
+    </div>
+    <!--End: Contact-->
+    <!--Start: Map-->
+    <div id="map" class="innerCont">
+        <h1>Our Location</h1>
+        <img src={{mapIMG}} alt="MAP">
+        <blockquote><em>I do not own this map link can be found in the footer. </em></blockquote>           
+    </div>
+    <!--End: map-->
+</div>
+<!-- End: content -->

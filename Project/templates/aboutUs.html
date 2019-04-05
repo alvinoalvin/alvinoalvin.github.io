@@ -1,0 +1,19 @@
+<!-- Start:content -->
+<div class="content">
+    <!--Start: intro-->
+    <div class="intro">
+        <div class="mission">
+            <h1><blockquote> Our Mission </blockquote></h1>        
+            <p>{{mission}}</p>
+        </div><br><br>
+        
+        <h1>About</h1>
+        {%for text in intros%}
+            <div class="text">
+                <p>{{text}}</p>
+            </div>
+        {% endfor %}
+    </div>
+    <!--End: intro-->
+</div>
+<!-- End: content -->

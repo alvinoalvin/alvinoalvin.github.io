@@ -1,0 +1,588 @@
+* {box-sizing:border-box}
+
+//MIXINS
+
+.inputStyle{
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding-left: 5px;
+    &:focus{
+        background-color: lightblue;
+    }
+}
+
+.border{
+    border: solid black 1px;
+}
+.nopadmarg{
+    padding: 0;
+    margin: 0;
+}
+
+@dropContColor: #9ac3e5;
+
+body{
+    .nopadmarg;
+    height:100vh;
+    background-color: black;
+    color:white;
+}
+.wrapper{
+    font-family: themeFont;
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.wrapper > * {
+    flex: 1 100%;
+  }
+  
+.header{
+    display: flex;
+    flex-flow: row nowrap;
+    min-height:120px;
+    width:100%;
+    background-color: #262626;
+    color:white;
+    .nopadmarg;
+    padding-right:1%;
+    //LogoBOX
+    .logoBox{
+        margin:3% auto;
+	padding-left: 10vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        min-width:350px;
+        height: 100%;
+        
+        .logo{
+            width: 100%;
+            height: 80%;
+            margin: auto;
+            img{
+                height: 100px;
+                width: 100px;
+            }
+        }
+        .company{
+            height: 30%;
+            font-weight: bold;
+            font-size: 50px;
+            color: lightgray;
+            text-align: center;
+            letter-spacing: 10px;
+        }
+                    a {
+                &:link, &:visited{
+                    text-decoration: none;
+                }
+            }
+        
+    }
+    
+     
+    .login{
+        box-sizing: border-box;
+        width: 10%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        h3{
+            color: white;
+            text-align: center; 
+        }
+        .headerLogInBox{
+            
+            
+            .buttonHolder{
+                width: 70%;
+                margin: auto auto;
+                
+                button{
+                    width: 100%;
+                    border: none;
+                    background-color: slategray;
+                    color: white;
+      
+                    a {
+                        color:white;
+                        text-decoration:none;
+                        }    
+                }
+            }
+        }    
+    }
+} //End Header
+.ms5{
+        a{
+            color: white;
+            text-decoration: none;
+        }
+    }
+//NavBar
+    .navBar{
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: flex-end;  
+        justify-content: space-evenly;      
+        margin:2% auto;
+        width:100%;
+        .nopadmarg;
+        .navButton{
+            border:solid white thin;
+            background-color:#101010;
+            width:30%;
+            margin: auto;
+            font-size: 140%;
+            text-align: center;
+            color: white;
+            &:hover{
+                background-color: @dropContColor;
+            }
+            
+            &:hover .dropCont{
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                background-color: @dropContColor;
+                width: 50%;
+                left: 0;
+                z-index: 1;
+                .contItem{
+                    font-size: 100%;
+                    width: auto;
+                    text-align: left;
+                    list-style-type: none;
+                    &:first-of-type{
+                        font-size: 110%;
+                        font-weight: bold;
+                        letter-spacing: 5px;
+                        line-height: 150%;
+                    }
+                    a{
+                        color: black;
+                        text-decoration: none;
+                        &:hover{
+                            color: white;
+                        }
+                    }
+                }
+            }
+            .dropCont{
+                display: none;
+                position: absolute;
+            }
+        }
+        
+        #shoppingButton, #wishButton{
+            background-color:slategray;
+            a {
+                color:white;
+                text-decoration:none;
+            }    
+        }
+        
+        #women{
+             &:hover .dropCont{
+                 background-color:#559ad3;
+                 margin-left:50%;
+             }
+        } // End Women
+    } //End Navbar
+.queryBar{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 2%;
+    border-bottom: solid white 1px;
+    label{
+        color: white;
+        margin: auto;
+    }
+    select{
+        background-color: grey;
+        margin: auto;
+    }
+    button{
+        border: none;
+        background-color: slategray;
+        color: white;
+        width: 50px;
+        &:hover{
+            background-color: grey;
+        }
+    }
+}
+.slideshow-container{
+    height:70vh;
+    max-width: 1000px;
+    height: 500px;
+    position: relative;
+    margin: auto;
+    margin-top: 15px;
+    
+    .mySlides{
+        img{
+            
+        }
+    }
+    
+}
+.content{
+    .textbox{
+        width:75%;
+        margin-top:5%;
+        margin-left:5%;
+        .infobox{
+            width:100%;
+            display:flex;
+            flex-flow:row;
+            .item{
+                padding:3%;
+                border:solid thin;
+            }
+        }
+        table{
+            th{
+                background-color:gray
+            }
+            th,td{
+                width:30vw;
+            }
+        }
+    }
+    color:white;
+    h1{
+        margin-left:5%;
+    }
+    .itemcontainer{
+        display:flex;
+        flex-flow:row wrap;
+        .itemdiv{
+            border:solid white 0.5px;
+            img {
+                width:210px;
+                height:250px;
+            }
+            width:300px;
+            margin:2.5%;
+            padding:30px;
+            text-align:center;
+        }
+    }
+    table{
+        width:75%;
+        th{
+            background-color: #151515;
+        }
+        th, td{
+             width: auto;
+             border:solid thin;
+        }
+    }
+}
+.mySlides{
+    display: none;
+    .text{
+        color: whitesmoke;
+        font-weight: bold;
+        font-size: 20px;
+        padding: 8px 12px;
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        text-align: center;
+        a{
+            text-decoration: none;
+            color: white;
+        }
+    }
+    .numbertext{
+        color: whitesmoke;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;  
+    }
+    img{
+        width: 100%;
+        max-height: 550px;
+    }
+}
+.prev, .next{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+.next{
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover{
+    background-color: rgba(0, 0, 0, 0.845);
+}
+    
+
+.dot{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: grey;
+    border-radius: 50%;
+    border: solid white 3px;
+    display: inline-block;
+    transition: background-color 1s ease;
+}
+.active, .dot:hover{
+    background-color: black;
+}
+.fade{
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    height:20vh;
+    color: white;
+    background-color: #0F0F0F;
+    align-self: flex-end;
+    border-top: solid white 2px;
+    .nopadmarg;
+    margin-top: 100px;
+    .footerNav{
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        .footerNavList{
+            width: auto;
+            border-right: solid white 1px;
+            margin: 10px;
+            padding: 30px;
+            &:last-of-type{border: none;}
+            li{
+                list-style-type: none;
+                line-height: 200%;
+                a{
+                    text-decoration: none;
+                    color: white;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:980px) {
+    .header{
+        flex-flow:column;
+        width:100%;
+        .logoBox{
+            margin:2% auto;
+            min-width:350px;
+        }
+        .navBar{
+            padding: 2.5% 0;
+            width:100%;
+            .navButton{
+                width:30%;
+            }
+        }
+        .login{
+            flex-order:1;
+        }
+    }
+}
+//LogIn page
+.logInContainer{
+    box-sizing: border-box;
+    width: 40%;
+    height: 50%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: slategray;
+    border-radius: 10px;
+    .border;
+    .logInPageBox{
+        box-sizing: border-box;
+        width: 100%;
+        height: 100%;
+        .border;
+        .logHead{
+            box-sizing: border-box;
+            height: 20%;
+            width: 100%;
+            font-size: 150%;
+            padding: 5px;
+            text-align: center;
+        }
+        .inputBox{
+            box-sizing: border-box;
+            height: 60%;
+            width: 70%;
+            margin: auto;
+            
+            .input{
+                .inputStyle;
+                width: 100%;
+                height: 20%;
+                
+                &:focus{
+                    background-color: lightblue;
+                    border-radius: 10px;
+                }
+            }
+        }
+        
+        .buttonHolder{
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: row;
+            height: 20%;
+            width: 70%;
+            margin: auto;
+            button{
+                width: 50%;
+                height: 90%;
+                border: solid white 1px;
+                color: white;
+                font-size: 130%;
+                font-weight: bold;
+                &:last-of-type{
+                    background-color: red;
+                    &:hover{
+                        background-color: salmon;
+                    }
+                }
+                &:first-of-type{
+                    background-color: teal;
+                    &:hover{
+                        background-color: lightblue;
+                    }
+                }
+                a{
+                    color: white;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+//sign up page
+
+.main{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    .accountForm{
+        box-sizing: border-box;
+        width:50%;
+        margin: auto;
+        margin-top: 5%;
+        .border;
+        .formHeader{
+            box-sizing: border-box;
+            width: 100%;
+            text-align: center;
+            font-size: 250%;
+        }
+        .inputBox{
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            width: 70%;
+            margin: auto;
+            .input{
+                height: 45px;
+                .inputStyle;
+                font-size: 120%;
+            }
+            label{
+                position: relative;
+                left:  -20px;
+            }
+            h2{
+                position: relative;
+                left: -40px;
+            }
+        }
+        .accountButtonHolder{
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: row;
+            width: 70%;
+            margin: 10px auto;
+            .border;
+            button{
+                width: 50%;
+                height: 45px;
+                border: none;
+                border: solid white 1px;
+                color: white;
+                font-size: 130%;
+                font-weight: bold;
+                &:first-of-type{
+                    background-color: teal;
+                    &:hover{
+                        background-color: #015c5c;
+                    }
+                }
+                
+                &:last-of-type{
+                    z-index: 1;
+                    width: 75px;
+                    height: 75px;
+                    position: relative;
+                    top: -15px;
+                    margin: auto;
+                    border-radius: 50%;
+                    border: none;
+                    background-color: gray;
+                    background-image: url('img/home.png');
+                    background-size: 45px 45px;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    &:hover{
+                        background-color: lightblue;
+                    }
+                    &:hover a{
+                        color: grey;
+                    }
+                    a{
+                      color: lightblue;
+                      text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+}

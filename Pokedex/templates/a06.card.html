@@ -1,0 +1,76 @@
+<!-- Start:Header -->
+<header>
+    {%for pokemon in pokearr%}
+    <!--Start: cont1-->
+    <div class="cont1">
+        <div class="title">
+            <a href='index.php'><img src="{{logo}}" alt="logo"></img></a>
+        </div>
+        <!--Start: col2-->
+        <div class="col2">
+            <div class="subtitle"><h1>{{sub}}</h1></div>
+        </div>
+        <!--End: col2-->
+        <div class="col3">
+            <a href="https://www.pokemon.com/us/"><img src={{offical}}></img></a>
+        </div>
+    </div>
+    <!--End: cont1-->
+    <!--Start: Dropdown-->
+    <div class="dropdown">
+        <div class="dropbtncont">
+            <button onclick="createEventHandler()" class="dropbtn">Menu</button>
+        </div>
+        <!-- Start: Menu -->
+        <div id="menuID" class="menuClass">
+            {%for key,menuitem in menulist%}
+                <div class = "menuitem"><a href={{menuitem}}>{{key}}</a></div>
+            {% endfor %}
+        </div>
+        <!-- End: Menu -->
+    </div>
+    <!--End: dropdown-->
+</header>
+<!-- End: Header -->
+<!-- Start:content -->
+<div class="content">
+        {% set name = pokemon['Pokename']|lower %}
+    <div class="card">
+    <h1>{{pokemon['Pokename']}}</a></h1>
+   <img src="https://img.pokemondb.net/artwork/{{name}}.jpg"></img><br>
+        <label>Stats: </label>
+        <ul>
+            <li> Id: {{pokemon['PokeID']}}</li>
+            <li> Name: {{pokemon['Pokename']}}</li>
+            <li> Type1: {{pokemon['PType']}}</li>
+            <li> Type2: {{pokemon['PType2']}}</li>
+            <li> HP: {{pokemon['HP']}}</li>
+            <li> Atk: {{pokemon['Atk']}}</li>
+            <li> Def: {{pokemon['Def']}}</li>
+            <li> Sp. Atk: {{pokemon['SAt']}}</li>
+            <li> Sp. Def: {{pokemon['SDf']}}</li>
+            <li> Spd: {{pokemon['Spd']}}</li>
+            <li> BSt: {{pokemon['BST']}}</li>
+           
+        </ul>
+        <label> Google: </label>
+        <div class="link">
+            <a href="http://www.google.com/search?as_q={{pokemon['Pokename']}}">{{pokemon['Pokename']}}</a>
+        </div>
+        <div class="description">
+            {{description}}
+        </div>
+    </div>
+    {%endfor%}
+</div>
+<!-- End: content -->
+<!-- Start: Footer -->
+<div class="footer">
+    <!-- Start: Copyright -->
+    <div class="cpright">
+        {{copyright}}
+    </div>
+    <!-- End: copyright -->
+    <!-- Start: Copyright date -->
+    <div class="cprightDate">
+        {{copydate}}

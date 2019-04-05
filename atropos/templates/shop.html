@@ -1,0 +1,25 @@
+
+<div class="content">
+    <h1>{{subtitle}}<h1>
+    <table class="itemcontainer">
+        <tr>
+            <th>Type</th>
+            <th>Size</th>
+            <th>Price</th>
+        </tr>
+        {%for item in contArr%}
+        <tr class="item">
+            <td>{{item['Type']}}</td>
+            <td>{{item['Size']}}</td>
+            <td>${{item['Price']}}</td>
+        </tr>
+        {% endfor %}
+        <tr>
+            <td></td>
+            <td>Total:</td>
+            <td>${{total}}</td>
+        </tr>
+    </table>
+    <a href="invoice.php" class="button">GET INVOICE</a>
+</div>
+

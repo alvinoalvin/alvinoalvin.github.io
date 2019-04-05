@@ -1,0 +1,215 @@
+<div class="content">
+    <h2>Projection Query</h2>
+    <h4>{{sql1}}</h4>
+    <form action="projection.php" method="GET">
+        <label>$table: </label>
+        <input type="text" id="column" name="column" placeholder="column"><br>
+        <button type="submit" id="submit">Submit</button>
+    </form>
+    <br> Example
+    <table>
+        <tr>
+            <th>Username</th>
+            <th>House Number</th>
+            <th>Postal Code</th>
+            <th>Email </th>
+        </tr>
+        {% for item in q1%}
+        <tr>
+            <td>{{item['Username']}}</td>
+            <td>{{item['HouseNum']}}</td>
+            <td>{{item['Postal_CODE']}}</td>
+            <td>{{item['Email']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    <br><br>
+    
+    <h2>Selection Query</h2>
+    <h4>{{sql2}}</h4>
+    <form action="selection.php" method="GET">
+        <label>$table: </label>
+        <input type="text" id="table" name="table" placeholder="Max price"><br>
+    <button type="submit" id="submit">Submit</button>
+    </form>
+    <br> Example
+    <table>
+        <tr>
+            <th>Type</th>
+            <th>Color</th>
+            <th>Size</th>
+            <th>Quantity </th>
+            <th>Price</th>
+        </tr>
+        {% for item in q2%}
+        <tr>
+            <td>{{item['Type']}}</td>
+            <td>{{item['Color']}}</td>
+            <td>{{item['Size']}}</td>
+            <td>{{item['Quantity']}}</td>
+            <td>{{item['Price']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    <br><br>
+    
+    <h2>Join Query</h2>
+    <h4>{{sql3}}</h4>
+    <form action="join.php" method="GET">
+        <label>$table: </label>
+        <input type="text" id="table" name="table" placeholder="A child product"><br>
+    <button type="submit" id="submit">Submit</button>
+    </form>
+    
+    <br> Example
+    <table>
+        <tr>
+            <th>Type</th>
+            <th>Color</th>
+            <th>Size</th>
+            <th>Quantity </th>
+            <th>Price</th>
+        </tr>
+        {% for item in q3%}
+        <tr>
+            <td>{{item['Type']}}</td>
+            <td>{{item['Color']}}</td>
+            <td>{{item['Size']}}</td>
+            <td>{{item['Quantity']}}</td>
+            <td>{{item['Price']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+        
+    <br><br>
+    
+    <h2>Division Query</h2>
+    <h4>{{sql4}}</h4>
+    <form action="division.php" method="GET">
+        <label>$table: </label>
+        <input type="text" id="table" name="table" placeholder="minus"><br>
+    <button type="submit" id="submit">Submit</button>
+    </form>
+    <br> Reference table Shoppingcart
+    <table>
+        <tr>
+            <th>Username</th>
+            <th>Product Id</th>
+        </tr>
+        {% for item in q4%}
+        <tr>
+            <td>{{item['Username']}}</td>
+            <td>{{item['ProdID']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+        
+    <br><br>
+    
+    <h2>Aggregation Queries</h2>
+    <h4>{{sql5}}</h2>
+    <table>
+        <tr>
+            <th>Minimum</th>
+        </tr>
+        <tr>
+            <td>{{q5[0][0]}}</td>
+        </tr>
+    </table>
+    <br><br>
+    <h4>{{sql6}}</h2>
+    <table>
+        <tr>
+            <th>Maximum</th>
+        </tr>
+        {% for item in q6%}
+        <tr>
+            <td>{{item['MAX']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+        
+    <br><br>
+    
+    <h2>Nested Aggregate function</h2>
+    <h4>{{sql7}}</h2>
+    <table>
+        <tr>
+            <th>ProdID</th>
+            <th>Price</th>
+        </tr>
+        {% for item in q7%}
+        <tr>
+            <td>{{item['ProdID']}}</td>
+            <td>$ {{item['Price']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    <br><br>
+    
+    <h2>Deletion Query</h2>
+    <h4>{{sql8}}</h4>
+    <table>
+        <tr>
+            <th>Delete Item</th>
+            <th>Type</th>
+            <th>Color</th>
+            <th>Size</th>
+            <th>Quantity </th>
+            <th>Price</th>
+        </tr>
+        {% for item in q8 %}
+        <tr>
+            <td><a href="delete.php?ID={{item['ProdID']}}">Delete Product {{item['ProdID']}}</a></td>
+            <td>{{item['Type']}}</td>
+            <td>{{item['Color']}}</td>
+            <td>{{item['Size']}}</td>
+            <td>{{item['Quantity']}}</td>
+            <td>{{item['Price']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+        
+    <br><br>
+    
+    <h2>Update Query</h2>
+    <h4>REFERENCE TABLE</h4>
+    <table>
+        <tr>
+            <th>House Number</th>
+            <th>Street</th>
+            <th>City</th>
+            <th>Provice</th>
+        </tr>
+        {% for item in q9 %}
+        <tr>
+            <td>{{item['HouseNum']}}</td>
+            <td>{{item['Street']}}</td>
+            <td>{{item['City']}}</td>
+            <td>{{item['Province']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <h4>{{sql9}}</h4>
+    <form action="update.php" method="GET">
+
+    <label>Old House #: </label>
+    <input type="text" id="oldHnum" name="oldHnum" placeholder="Old House #"><br>
+    
+    <label>New House #: </label>
+    <input type="text" id="newHnum" name="newHouse" placeholder="New House #"><br>
+    
+    <label>Street: </label>
+    <input type="text" id="street" name="street" placeholder="Street">    <br>
+    
+    <label>City: </label>
+    <input type="text" id="city" name="city" placeholder="City"><br>
+    
+    <label>Province: </label>
+    <input type="text" id="prov" name="prov" placeholder="Province"> <br><br>
+    <button type="submit" id="submit">Submit</button>
+</form>
+</div>

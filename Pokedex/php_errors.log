@@ -1,0 +1,63 @@
+[23-Oct-2017 19:55:05 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ubuntu/workspace/a06/less/a06.less.php on line 2
+[23-Oct-2017 20:00:03 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: The "./templates" directory does not exist ("/home/ubuntu/workspace/a06/less/./templates"). in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('./templates', '__main__')
+#1 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/ubuntu/workspace/a06/less/a06.less.php(4): Twig_Loader_Filesystem->__construct('./templates')
+#3 {main}
+  thrown in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[23-Oct-2017 20:01:23 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: The "./templates" directory does not exist ("/home/ubuntu/workspace/a06/less/./templates"). in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('./templates', '__main__')
+#1 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/ubuntu/workspace/a06/less/a06.less.php(4): Twig_Loader_Filesystem->__construct('./templates')
+#3 {main}
+  thrown in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[23-Oct-2017 20:03:13 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: The "./templates" directory does not exist ("/home/ubuntu/workspace/a06/less/./templates"). in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('./templates', '__main__')
+#1 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/ubuntu/workspace/a06/less/a06.less.php(4): Twig_Loader_Filesystem->__construct('./templates')
+#3 {main}
+  thrown in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[23-Oct-2017 20:06:59 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 2
+[23-Oct-2017 20:06:59 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 2
+[23-Oct-2017 20:10:24 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 2
+[23-Oct-2017 20:10:24 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 2
+[23-Oct-2017 20:12:42 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[23-Oct-2017 20:12:42 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 05:42:34 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 05:42:34 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 05:42:37 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 05:42:37 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:53:31 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:53:31 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:53:37 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:53:37 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:54:27 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:54:27 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:55:07 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:55:07 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:56:01 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:56:01 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06.less.php on line 3
+[24-Oct-2017 06:56:47 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 06:56:47 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:55:20 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:55:20 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:55:31 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:55:31 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:55:42 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:55:42 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:56:02 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:56:02 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:58:23 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 07:58:23 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 08:05:02 UTC] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 08:05:02 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/a06/less/a06less.php on line 3
+[24-Oct-2017 08:05:23 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: The "./templates" directory does not exist ("/home/ubuntu/workspace/a06/less/./templates"). in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('./templates', '__main__')
+#1 /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/ubuntu/workspace/a06/less/a06less.php(5): Twig_Loader_Filesystem->__construct('./templates')
+#3 {main}
+  thrown in /home/ubuntu/workspace/a06/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101

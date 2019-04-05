@@ -1,0 +1,15 @@
+
+<!-- Start:content -->
+<div class="content">
+   <div class="gallery">
+        <h1>Gallery</h1><br>
+       {% for pic in pics %}
+          <div class="image">
+              <a href={{pic['LINK']}}><img src= {{pic['PIC']}} alt=""></a>
+              <br>
+              <label>pic {{pic['ID']}}</label>
+          </div>
+        {% endfor %}
+   </div>
+</div>
+<!-- End: content -->

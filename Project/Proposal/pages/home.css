@@ -1,0 +1,140 @@
+@keyframes example {
+  0% {
+    background-color: #B46101;
+  }
+  25% {
+    background-color: #ac6a1f;
+  }
+  50% {
+    background-color: #925e27;
+  }
+  75% {
+    background-color: #755637;
+  }
+  100% {
+    background-color: #553f28;
+  }
+}
+* {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+body {
+  background-size: 100% 100%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+.main {
+  margin-bottom: 2%;
+}
+/* Header */
+header {
+  animation-name: example;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  display: flex;
+  flex-flow: row;
+  background-color: #ac6a1f;
+  color: white;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+header a:link {
+  color: white;
+}
+header a:hover {
+  color: #361C1C;
+}
+header a:visited {
+  color: lightslategray;
+}
+#logo {
+  float: left;
+  width: 70%;
+  padding-right: 15%;
+}
+#logo img {
+  height: 100%;
+  width: 200px;
+  float: left;
+}
+#sidecon {
+  width: 15%;
+  height: 10vh;
+  background-color: rgba(250, 169, 64, 0.53);
+  float: right;
+}
+#sidecon img {
+  padding-top: 10%;
+  height: 50px;
+  width: 50px;
+}
+#sidebar {
+  display: none;
+}
+#intro {
+  padding-bottom: 10%;
+  background-color: rgba(138, 83, 28, 0.5);
+}
+#intro h2 {
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-top: 5%;
+}
+#intro .text {
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-top: 5%;
+}
+#contact {
+  background-color: #ac6a1f;
+}
+#contact #contactInfo {
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-top: 5%;
+}
+#contact #contactInfo #contact1 {
+  padding-bottom: 5%;
+}
+#contact #contactInfo #cont2 img {
+  width: 90vw;
+}
+footer {
+  background-color: #9a783c;
+  float: bottom;
+  width: 100%;
+  bottom: 0;
+}
+footer a {
+  color: black;
+}
+footer a:hover {
+  color: gray;
+}
+footer a:visited {
+  color: lightskyblue;
+}
+footer img {
+  width: 5%;
+  height: 5%;
+}
+@media only screen and (min-width: 980px) {
+  #intro {
+    background-image: linear-gradient(to right, #ac6a1f 0%, lightblue 100%), url("../imgs/home_background.jpg");
+    background-size: 100% 100%;
+    background-blend-mode: multiply;
+  }
+  #logo {
+    width: 30%;
+    padding-right: 75%;
+  }
+  #contact #contactInfo #cont2 img {
+    width: auto;
+    size: 100%;
+  }
+}

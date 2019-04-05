@@ -1,0 +1,33 @@
+<div class="header">
+    <div class="header1"><a href="home.php"><h1>ALVIN'S CHATROOM</h1></a></div>
+    {%if logged == "null" %}
+    <div class="header2"><a href="index.php">Change name</a></div>
+    {% else %}
+    <div class="header2"><a href="logout.php">logout</a></div>
+    {%endif%}
+</div>
+
+<div class="content">
+    <p>Messages will be deleted after 5 minutes as to not crowd the database.</p>
+    <p>If login isnt working please refresh</p>
+    <div class="chatWindow" id = chat1>
+        <div class="chatWindow2">
+            {%for a in messages%}
+                <div class="message"><span class="user">{{a['username']}}:</span> {{a['message']}}</div>
+                <div class="timestamp">{{a['sys_time']}}</div>
+            {% endfor %}
+            >
+        </div>
+        
+    </div>
+    
+    <!--Form-->
+    <form >
+        <label for="message">Message: </label><br>
+        <input type="text" id="message" name="message" placeholder="Message" value = "" onkeydown = "if(event.keyCode == 13) myFunction()">
+        
+        <br><br>
+        
+        <input id="submit" name="Submit" type="Button" value="Submit" onclick="myFunction()">
+    </form>
+</div>

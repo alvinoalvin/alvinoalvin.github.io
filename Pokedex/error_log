@@ -1,0 +1,977 @@
+[08-Mar-2018 19:12:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'TonyHawk'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/a07/a06.dex.php on line 27
+[08-Mar-2018 19:12:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[08-Mar-2018 19:12:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'TonyHawk'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/a07/a06.dex.php on line 27
+[08-Mar-2018 19:12:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[08-Mar-2018 21:01:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'TonyHawk'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/a07/a06.dex.php on line 27
+[08-Mar-2018 21:01:53 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[08-Mar-2018 21:32:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'TonyHawk'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/a07/a06.dex.php on line 27
+[09-Mar-2018 11:04:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'TonyHawk'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/a07/a06.dex.php on line 27
+[09-Mar-2018 22:27:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'TonyHawk'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/a07/a06.dex.php on line 27
+[09-Mar-2018 22:27:45 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[09-Mar-2018 22:29:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[09-Mar-2018 22:30:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[09-Mar-2018 22:30:07 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[09-Mar-2018 22:30:08 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[09-Mar-2018 22:30:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[09-Mar-2018 22:30:20 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[10-Mar-2018 23:47:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:14:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:18:36 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:22:14 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:24:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:26:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:28:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:29:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:30:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 07:32:05 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[13-Mar-2018 08:41:32 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:22:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:23:14 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:24:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:25:38 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:26:36 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:27:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:28:05 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:28:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:29:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 06:30:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[14-Mar-2018 17:19:47 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[15-Mar-2018 20:09:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[15-Mar-2018 20:09:47 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[15-Mar-2018 20:09:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[15-Mar-2018 20:10:01 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[15-Mar-2018 20:10:05 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/a07/a06less.php on line 9
+[15-Mar-2018 20:15:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:16:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:23:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:23:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:23:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:23:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:23:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:23:53 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:24:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:24:08 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:24:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:24:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:24:14 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:25:32 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:15 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:17 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:21 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:22 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 20:26:25 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:21 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:36 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Mar-2018 22:28:53 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Mar-2018 00:28:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[18-Mar-2018 05:37:23 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[18-Mar-2018 20:24:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Mar-2018 02:23:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Mar-2018 02:23:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Mar-2018 03:36:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[01-Apr-2018 23:41:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Apr-2018 07:31:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Apr-2018 07:32:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Apr-2018 07:33:04 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Apr-2018 07:33:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Apr-2018 07:35:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Apr-2018 03:08:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Apr-2018 03:08:16 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Apr-2018 03:08:29 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[19-Apr-2018 15:16:27 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[20-Apr-2018 03:56:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[22-Apr-2018 03:06:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[24-Apr-2018 03:47:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[25-Apr-2018 01:57:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[25-Apr-2018 01:57:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[25-Apr-2018 12:05:47 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Apr-2018 15:31:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Apr-2018 07:27:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Apr-2018 07:27:41 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Apr-2018 07:29:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Apr-2018 07:29:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Apr-2018 07:29:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Apr-2018 07:29:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-May-2018 15:14:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[11-May-2018 17:59:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[11-May-2018 20:47:15 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[12-May-2018 15:25:33 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[13-May-2018 14:29:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-May-2018 08:48:25 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-May-2018 22:42:15 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[21-May-2018 11:53:23 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[25-May-2018 18:22:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[11-Jun-2018 16:26:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Jun-2018 12:17:22 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[20-Jun-2018 03:01:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[21-Jun-2018 16:29:27 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[22-Jun-2018 11:30:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[23-Jun-2018 03:32:17 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Jun-2018 05:07:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'alvinoalvin'@'localhost' (using password: YES) in /home/z33aktcdmzrb/public_html/Pokedex/index.php on line 27
+[26-Jun-2018 05:07:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Jun-2018 05:08:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Jun-2018 05:20:04 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[27-Jun-2018 07:24:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[27-Jun-2018 07:24:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[27-Jun-2018 07:24:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[27-Jun-2018 07:24:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Jun-2018 06:10:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[02-Jul-2018 11:53:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[02-Jul-2018 18:16:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[02-Jul-2018 23:20:17 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:00:41 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:00:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:00:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:00:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:01:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:01:07 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:02:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Jul-2018 02:23:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Jul-2018 19:57:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Jul-2018 08:52:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[15-Jul-2018 08:52:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:49:29 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:49:32 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:50:27 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:53:15 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:53:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:53:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 04:54:23 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 19:51:22 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 19:51:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 19:51:54 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 20:38:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jul-2018 22:17:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Jul-2018 03:52:28 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Jul-2018 03:53:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[24-Jul-2018 10:53:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[25-Jul-2018 01:23:37 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Jul-2018 21:33:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Jul-2018 21:33:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Jul-2018 02:05:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[31-Jul-2018 03:34:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Aug-2018 06:26:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Aug-2018 06:56:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[22-Aug-2018 09:48:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[22-Aug-2018 09:48:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[22-Aug-2018 09:48:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[22-Aug-2018 20:09:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[24-Aug-2018 08:55:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Aug-2018 22:04:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Aug-2018 21:34:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[05-Sep-2018 00:56:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[05-Sep-2018 05:58:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[05-Sep-2018 14:02:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[14-Sep-2018 01:27:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[14-Sep-2018 09:24:43 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:43 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:43 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:43 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[14-Sep-2018 09:24:43 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[14-Sep-2018 09:24:43 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[14-Sep-2018 09:24:44 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[14-Sep-2018 09:24:45 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:45 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:45 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:45 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[14-Sep-2018 09:24:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[14-Sep-2018 09:24:45 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[16-Sep-2018 03:17:37 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:11:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:11:33 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:11:41 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:11:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:12:03 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:12:04 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 13:12:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Sep-2018 14:56:38 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 14:56:38 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 14:56:38 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 14:56:38 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 14:56:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[28-Sep-2018 14:56:38 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 14:56:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:07 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:07 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:07 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:07 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[28-Sep-2018 15:35:07 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:08 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[28-Sep-2018 15:35:09 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[28-Sep-2018 15:35:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[28-Sep-2018 15:35:10 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[04-Oct-2018 00:09:54 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[05-Oct-2018 04:26:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:23:01 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:23:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:23:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:26:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:26:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:26:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:28:37 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:28:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:28:53 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:28:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:29:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:29:13 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:36:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[10-Oct-2018 03:40:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[11-Oct-2018 16:15:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[12-Oct-2018 22:58:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[14-Oct-2018 18:12:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Oct-2018 01:01:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Oct-2018 01:01:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Oct-2018 17:55:08 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[20-Oct-2018 15:06:38 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:38 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:38 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:38 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[20-Oct-2018 15:06:38 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[20-Oct-2018 15:06:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[20-Oct-2018 15:06:39 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[23-Oct-2018 10:28:52 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[23-Oct-2018 10:29:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[31-Oct-2018 09:53:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[31-Oct-2018 09:53:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[04-Nov-2018 19:36:56 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Nov-2018 23:52:56 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[09-Nov-2018 23:53:01 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[11-Nov-2018 03:54:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[11-Nov-2018 03:55:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Nov-2018 03:50:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Nov-2018 07:41:03 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Nov-2018 07:41:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Nov-2018 07:41:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[28-Nov-2018 03:41:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[05-Dec-2018 03:15:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[05-Dec-2018 03:16:23 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:05:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:03 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:04 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:05 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:07 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:08 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:13 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:14 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:15 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:16 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:17 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:18 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:20 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:21 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:22 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:23 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:24 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:25 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:27 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:28 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:29 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:32 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:33 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:36 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:37 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:38 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:41 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:45 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:47 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:49 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:53 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:54 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:56 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:06:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:01 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:03 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:04 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:05 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:07 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:13 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:17 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:20 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:21 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:24 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:27 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:28 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:38 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:41 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:45 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:52 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:52 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:07:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:13 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:14 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:17 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:19 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:20 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:21 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:22 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:23 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:24 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:25 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:26 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:27 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:28 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:29 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:30 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:31 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:32 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:33 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:34 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:36 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:37 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:38 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:39 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:41 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:43 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:45 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:46 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:47 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:48 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:49 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:50 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:51 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:52 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:53 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:54 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:56 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:57 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:08:59 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:01 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:02 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:03 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:04 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:05 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:06 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:07 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:08 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:11 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:12 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:13 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[07-Dec-2018 14:09:14 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[14-Dec-2018 07:17:54 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Dec-2018 17:09:21 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Dec-2018 18:32:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Dec-2018 07:35:10 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Dec-2018 07:35:24 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[17-Dec-2018 07:35:40 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[19-Dec-2018 04:38:20 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:20 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:20 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:20 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:38:20 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:38:20 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:38:21 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:38:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:38:22 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:23 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:24 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:25 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:26 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:27 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:28 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:29 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:30 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:31 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Trying to get property of non-object in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 35
+[19-Dec-2018 04:40:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 39
+[19-Dec-2018 04:40:32 UTC] PHP Notice:  Undefined offset: 0 in /home/z33aktcdmzrb/public_html/Pokedex/card.php on line 52
+[25-Dec-2018 00:05:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[26-Dec-2018 19:12:16 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[02-Jan-2019 04:35:08 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jan-2019 05:49:55 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jan-2019 19:53:54 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[16-Jan-2019 19:54:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[18-Jan-2019 18:52:58 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[23-Jan-2019 04:14:36 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[23-Jan-2019 21:27:35 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[25-Jan-2019 02:13:24 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[27-Jan-2019 02:27:42 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[29-Jan-2019 01:51:22 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[30-Jan-2019 19:32:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[01-Feb-2019 13:24:00 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[02-Feb-2019 03:25:44 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[03-Feb-2019 12:01:09 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9
+[06-Feb-2019 01:07:28 UTC] PHP Notice:  Undefined index: Type in /home/z33aktcdmzrb/public_html/Pokedex/less.php on line 9

@@ -1,0 +1,213 @@
+*{
+    margin:0;
+}
+body {
+    /* source: http://wallpaperswide.com/members/stormcloud/ */
+    background: url("../imgs/home_background.jpg") no-repeat center center fixed; 
+    background-size: 100% 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    text-decoration: none;
+}
+
+/* Header */
+header {
+    margin-left:0;
+    color:white;
+    width: 100%;    
+    height:10%;
+    text-align:center;
+}
+/* logo */
+header #logo {
+    width:300px;
+    height:50px;
+}
+header img {
+    height:100%;
+    width:70%;
+    float:left;
+}
+header a:link {
+    color:white;
+}
+header a:hover {
+    color:lightgray;
+}
+header a:visited {
+    color:lightslategray;
+}
+header #logo {
+    float:left;
+}
+
+/* header UL */
+header #headUL .headLi a, header #sns .snsLI a {
+    padding: 8px;
+    font-size: 20px;
+}
+
+/* header Social Networking site */
+header #sns {
+    float: right;
+    margin-right: 5%;
+    text-align: center;
+}
+header #sns img {
+    padding-left:20px;
+    height: 20px;
+    width: 20px;
+}
+
+
+/* Main */
+#main {
+    height:100vh;
+}
+#main h1 {
+    color:rgba(226, 233, 235, 0.87);
+    font-size: 50px;
+    margin:10%;
+    margin-left:30%;
+    margin-bottom:5%;
+}
+
+/* main Nav */
+#main {
+    height:100vh;
+}
+#main nav {
+    text-align: center;
+}
+#main nav #navUL .navLI {
+    display: inline;
+    font-size:25px;
+}
+#main nav #navUL .navLI a {
+    padding: 8px;
+    margin-left:1%;
+    color: white;
+    border-style: solid;
+    border-width:1px;
+    background-color: rgba(39, 59, 203, 0.39);
+}
+#main nav #navUL .navLI a:hover {
+    color:lightsalmon;
+}
+
+/* main intro */
+#main #intro {
+    display:inline-flex;
+    width: 60%;
+    color:black;
+    margin-left: 20%;
+    margin-top: 100px;
+    font-size:20px;
+}
+#main #intro .text {
+    margin:10px;
+    background-color:rgba(255, 146, 51, 0.36);
+    height:100%; 
+}
+
+/* footer */
+footer {
+    background-color: #145A85;
+    position: fixed;
+    float: bottom;
+    text-align:center;
+    width: 100%;
+    bottom: 0;
+    color: white;
+}
+footer #footerUL .footerLI {
+ margin-left:40px;
+}
+footer a:link {
+    color:white;
+}
+footer a:visited {
+    color:lightskyblue
+}
+footer #disclaimer {
+    background-color:black;
+}
+
+/* sidebar */
+#sidebar {
+    display: none;
+}
+
+@media only screen and (max-width: 940px) {
+    /* For tablets: */
+    #main #intro,header #sns {
+        display:none;
+    }
+    header #logo {
+        width:100%;
+        height:10vh;
+    }
+    header #logo img {
+        margin-left:25%;
+        width:50%;
+        height:10vh;
+        border:solid white;
+    }
+    #main nav {
+        display: inline;
+    }
+    #main nav #navUL .navLI a {
+        font-size:20px;
+        padding: 1%;
+    }
+    footer {
+        margin-top:50%;
+        float:bottom;
+        position: absolute;;
+    }
+}
+@media only screen and (max-width: 460px) {
+    /* For phones: */
+    /* body */
+    body{
+        background-color:orange;
+        background-image:none;
+        display:flex;
+        flex-flow:column;
+    }
+    /* header */
+    header #logo {
+        width:100%;
+        height:10%;
+    }
+    header #logo img {
+        width:100%;
+        height:10%;
+        margin:0;
+    }
+    /* main */
+    #main h1,header #sns,header #headUL {
+        display:none;
+    }
+    /* nav */
+    #main nav #navUL {
+        display:flex;
+        flex-flow:column;
+        width:100%;
+        height:5%;
+    }
+    #main nav #navUL .navLI a{
+        display:block;
+    }
+    #main #intro {
+        display:block;
+        margin-left:0;
+        width:100%;
+    }
+    #main #intro .text {
+        margin:10px;
+        border:solid;
+        background-color:#4677AC;
+    }
+}

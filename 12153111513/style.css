@@ -1,0 +1,35 @@
+body{
+    display:grid;
+    height: 80%;
+    grid-template-columns:1fr 1fr;
+    grid-gap: 5px;
+    grid-template-areas:
+      "header header"
+      "profile dosier"
+      "profile dosier"
+      "profile pages"
+      "Table Table";
+}
+header {
+    text-align:center;
+    background-color: gray;
+    grid-area: header;
+}
+
+.profileInfo{
+    background-color: blue;
+    grid-area: profile;
+}
+.dosier{
+    background-color: red;
+    grid-area: dosier;
+}
+.page{
+    background-color: lightgreen;
+    grid-area: pages;
+}
+.tbOfCriminals{
+    background-color:orange;
+    grid-area: Table;
+}
+

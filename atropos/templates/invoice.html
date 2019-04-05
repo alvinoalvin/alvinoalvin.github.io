@@ -1,0 +1,31 @@
+<div class="content">
+    <h1>{{subtitle}}</h1>
+    <div class="textbox">
+        <div class="infobox">
+            {% for a in address%}
+            <div class="item"><p><h3>Bill To: </h3>{{a['HouseNum']}}, {{a['Street']}}, {{a['City']}}, {{a['Province']}}</p></div>
+            <div class="item"><p><h3>Ship To: </h3>{{a['HouseNum']}}, {{a['Street']}}, {{a['City']}}, {{a['Province']}}</p></div>
+            <div class="item"><p><h3>Invoice Date: </h3>{{date}}</p></div>
+            {% endfor %}
+        </div>
+        <table class="itemcontainer">
+            <tr>
+                <th>Type</th>
+                <th>Size</th>
+                <th>Price</th>
+            </tr>
+            {%for item in contArr%}
+            <tr class="item">
+                <td>{{item['Type']}}</td>
+                <td>{{item['Size']}}</td>
+                <td>${{item['Price']}}</td>
+            </tr>
+            {% endfor %}
+            <tr>
+                <td></td>
+                <td>Total:</td>
+                <td>${{total}}</td>
+            </tr>
+        </table>
+    </div>
+</div>

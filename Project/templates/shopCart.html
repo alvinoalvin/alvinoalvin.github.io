@@ -1,0 +1,27 @@
+<!-- Start:content -->
+<div class="content">
+   <div class="shopCart">
+        <h1>Shopping cart</h1><br>
+        <div class="prodCont">
+            <div class="prodCont2">
+                {% for item in cart %}
+                <div class="prod">
+                    <div class="pic"><img src="{{item['IMAGE']}}"></img></div>
+                    <div class ="type">{{item['TYPE']}} HORSE</div>
+                    <div class = "price">${{item['PRICEINGOLD']}} &nbsp;&nbsp;&nbsp;
+                        <span class="remove">
+                            <button class="button" onclick="removeCart('{{item['TYPE']}}')">Remove</button>
+                        </span>
+                    </div>
+                </div>
+                {% endfor %}
+                <div class="prod">
+                    <div class="pic"></div>
+                    <div class ="type"></div>
+                    <div class = "price">{{total}}</div>
+                </div>
+            </div>
+        </div>
+   </div>
+</div>
+<!-- End: content -->

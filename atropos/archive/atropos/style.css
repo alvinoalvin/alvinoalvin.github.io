@@ -1,0 +1,236 @@
+* {
+  box-sizing: border-box;
+}
+.border {
+  border: solid black 1px;
+}
+.nopadmarg {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+.wrapper > * {
+  flex: 1 100%;
+}
+.header {
+  display: flex;
+  flex-flow: row nowrap;
+  height: 110px;
+  background-color: whitesmoke;
+  padding: 0;
+  margin: 0;
+}
+.header .logoBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 25%;
+  height: 100%;
+}
+.header .logoBox .logo {
+  width: 60%;
+  height: 65%;
+  margin: auto;
+}
+.header .logoBox .logo img {
+  height: 100%;
+  width: 100%;
+}
+.header .logoBox .company {
+  height: 30%;
+  font-weight: bold;
+  font-size: 160%;
+  color: blue;
+  text-align: center;
+  letter-spacing: 25px;
+}
+.header .navBar {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: flex-end;
+  justify-content: space-evenly;
+  width: 75%;
+  padding: 0;
+  margin: 0;
+}
+.header .navBar .navButton {
+  width: 20%;
+  font-size: 140%;
+  text-align: center;
+}
+.header .navBar .navButton:hover {
+  background-color: grey;
+}
+.header .navBar .navButton:hover .dropCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: grey;
+  width: 100%;
+  left: 0;
+  z-index: 1;
+}
+.header .navBar .navButton:hover .dropCont .contItem {
+  font-size: 100%;
+  width: auto;
+  text-align: left;
+  list-style-type: none;
+}
+.header .navBar .navButton:hover .dropCont .contItem:first-of-type {
+  font-size: 110%;
+  font-weight: bold;
+  letter-spacing: 5px;
+  line-height: 150%;
+}
+.header .navBar .navButton:hover .dropCont .contItem a {
+  color: black;
+  text-decoration: none;
+}
+.header .navBar .navButton:hover .dropCont .contItem a:hover {
+  color: white;
+}
+.header .navBar .navButton .dropCont {
+  display: none;
+  position: absolute;
+}
+.slideshow-container {
+  max-width: 1000px;
+  max-height: 1000px;
+  position: relative;
+  margin: auto;
+  margin-top: 15px;
+}
+.mySlides {
+  display: none;
+}
+.mySlides .text {
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.mySlides .text a {
+  text-decoration: none;
+  color: white;
+}
+.mySlides .numbertext {
+  color: whitesmoke;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.mySlides img {
+  width: 100%;
+  max-height: 550px;
+}
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.845);
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: grey;
+  border-radius: 50%;
+  border: solid white 3px;
+  display: inline-block;
+  transition: background-color 1s ease;
+}
+.active,
+.dot:hover {
+  background-color: black;
+}
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  color: white;
+  background-color: black;
+  align-self: flex-end;
+  border-top: solid white 2px;
+  padding: 0;
+  margin: 0;
+  margin-top: 100px;
+}
+.footer .footerNav {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+.footer .footerNav .footerNavList {
+  width: auto;
+  border-right: solid white 1px;
+  margin: 10px;
+  padding: 30px;
+}
+.footer .footerNav .footerNavList:last-of-type {
+  border: none;
+}
+.footer .footerNav .footerNavList li {
+  list-style-type: none;
+  line-height: 200%;
+}
+.footer .footerNav .footerNavList li a {
+  text-decoration: none;
+  color: white;
+}

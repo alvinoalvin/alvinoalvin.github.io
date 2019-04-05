@@ -1,0 +1,25 @@
+{%for horse in horsearr%}
+<!-- Start:content -->
+<div class="catContent">
+    <div class="con1">
+       <img src="{{horse['IMAGE']}}"></img><br>
+    </div>
+    <div class="card">
+       <div class="Stats">
+           <h1>{{horse['TYPE']}} HORSE</h1>
+            <label><strong> {{horse['BREED']}} </strong> </label>
+            <br><br>
+            <div> Id: {{horse['ID']}}</div>
+            <div> Type: {{horse['TYPE']}}</div>
+            <div> Strength: {{horse['STRENGTH']}}</div>
+            <div> Speed: {{horse['SPEED']}}</div>
+            <div> Stamina: {{horse['STAMINA']}}</div>
+            <div> Price: {{horse['PRICEINGOLD']}} gold </div>
+            <br><br>
+            <button class="button" onclick="myFunction({{type}})">Buy</button>
+            <div><small>requires a 5 gold deposit</small></div>
+        </div>
+    </div>
+    {%endfor%}
+</div>
+<!-- End: content -->

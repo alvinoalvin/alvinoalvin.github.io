@@ -1,0 +1,81 @@
+<!-- Start:Header -->
+<header>
+    <!--Start: cont1-->
+    <div class="cont1">
+        <div class="title">
+            <a href='index.php'><img src="{{logo}}" alt="logo"></img></a>
+        </div>
+        <!--Start: col2-->
+        <div class="col2">
+            <div class="subtitle"><h1>{{sub}}</h1></div>
+        </div>
+        <!--End: col2-->
+        <div class="col3">
+            <a href="https://www.pokemon.com/us/"><img src={{offical}}></img></a>
+        </div>
+    </div>
+    <!--End: cont1-->
+    <!--Start: Dropdown-->
+    <div class="dropdown">
+        <div class="dropbtncont">
+            <button onclick="createEventHandler()" class="dropbtn">Menu</button>
+        </div>
+        <!-- Start: Menu -->
+        <div id="menuID" class="menuClass">
+            {%for key,menuitem in menulist%}
+                <div class = "menuitem"><a href={{menuitem}}>{{key}}</a></div>
+            {% endfor %}
+        </div>
+        <!-- End: Menu -->
+    </div>
+    <!--End: dropdown-->
+</header>
+<!-- End: Header -->
+<!-- Start:content -->
+<div class="content">
+    <table class="dextable">
+        <thead>
+            <tr>
+                <td> Sprite</td>
+                <td> Id</td>
+                <td> Name</td>
+                <td> Type1</td>
+                <td> Type2</td>
+                <td> Link</td></td>
+            </tr>
+        </thead>
+        
+        {%for pokemon in pokearr%}
+        {% set name = pokemon['Pokename']|lower %}
+    {% if pokemon['PokeID'] <= 5 %}
+        <tr class="openRow" id=tbd>
+    {% else %}
+        <tr class="closedRow" id=tbd>
+    {% endif %}
+            <!--get images from pokemondatabase get image address then mess with link-->
+            <td><img src="https://img.pokemondb.net/artwork/{{name}}.jpg"></img></td>
+            <td>{{pokemon['PokeID']}}</td>
+            <td>{{pokemon['Pokename']}}</td>
+            <td>{{pokemon['PType']}}</td>
+            <td>{{pokemon['PType2']}}</td>
+            <td><a href='card.php?ID={{pokemon['PokeID']}}&Type={{pokemon['PType']}}'>{{pokemon['Pokename']}}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+    <button onclick = "toggleRows()" id="dropbtn2">Show More</button>
+</div>
+<!-- End: content -->
+<!-- Start: Footer -->
+<div class="footer">
+    <!-- Start: Copyright -->
+    <div class="cpright">
+        {{copyright}}
+    </div>
+    <!-- End: copyright -->
+    <!-- Start: Copyright date -->
+    <div class="cprightDate">
+        {{copydate}}
+    </div>
+    <!-- End: copyright date -->
+</div>
+<!-- End: Footer -->

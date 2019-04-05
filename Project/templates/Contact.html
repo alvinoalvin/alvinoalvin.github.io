@@ -1,0 +1,67 @@
+<!-- Start:content -->
+<div class="content">
+    <!--Start: contact-->
+    <div class="contact2">
+        <h1>Contact Us</h1>
+        <div class="flexcont">
+            <div class="div">
+                <!--Form-->
+                <form>
+                    <!--action="email.php" method="POST" enctype="text/plain"-->
+                    <label for="name">Full Name: </label>
+                    <input type="text" id="fname" name="fullName" placeholder="Your name.." value="">
+                    
+                    <br>
+                    
+                    <!--<label for="email">Email: </label>-->
+                    <!--<input type="text" id="email" name="email" placeholder="Your Email.." value="">-->
+                    
+                    <!--<br><br>-->
+                    
+                    <label for="subject">Message: </label>
+                    <br>
+                    <input type="text" id="subject" name="subject" placeholder="Write something.." value="">
+                    
+                    <br>
+                    <input name="Submit" type="Button" value="Submit" onclick="emailFunc()">
+                    <!--<input type="Submit" type="Button" value="Send" onclick="emailFunc()">-->
+                </form>
+            </div>
+            <br>
+            <div class="div">
+                <!--Start:contact1-->
+                <div class="cont">
+                    <table>
+                        <tr>
+                            <td><strong>Phone number: </strong>{{phonenum}}</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Email: </strong>
+                                <a href="mailto:{{email}}">{{email}}</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><strong>Address: </strong>{{address}}</td>
+                        </tr>
+                    </table>
+                </div>
+                <!--End:contact1-->
+                <br>
+                <!--Start:contact2-->
+                <div class="cont">
+                    <table>
+                        {%for key,day in week%}
+                        <tr>
+                            <td><strong>{{key}}</strong></td>
+                            <td>{{day}}</td>
+                        </tr>
+                        {%endfor%}
+                       
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!--End: contact-->
+    </div>
+</div>
+<!-- End: content -->

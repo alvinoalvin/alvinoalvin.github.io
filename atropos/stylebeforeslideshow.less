@@ -1,0 +1,108 @@
+.border{
+    border: solid black 1px;
+}
+.nopadmarg{
+    padding: 0;
+    margin: 0;
+}
+
+@dropContColor: grey;
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.wrapper > * {
+    flex: 1 100%;
+  }
+  
+.header{
+    display: flex;
+    flex-flow: row nowrap;
+    height: 110px;
+    background-color: whitesmoke;
+    .nopadmarg;
+//LogoBOX
+    .logoBox{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 25%;
+        height: 100%;
+        
+        .logo{
+            width: 60%;
+            height: 65%;
+            margin: auto;
+            img{
+            height: 100%;
+            width: 100%;
+            }
+        }
+        .company{
+            height: 30%;
+            font-weight: bold;
+            font-size: 160%;
+            color: blue;
+            text-align: center;
+            letter-spacing: 25px;
+        }
+    }
+//NavBar
+    .navBar{
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: flex-end;  
+        justify-content: space-evenly;      
+        width: 75%;
+        .nopadmarg;
+
+        .navButton{
+            width: 20%;
+            font-size: 140%;
+            text-align: center;
+            &:hover{
+                background-color: @dropContColor;
+            }
+            
+            &:hover .dropCont{
+                display: flex;
+                flex-direction: column;
+                background-color: @dropContColor;
+                width: 100%;
+                left: 0;
+                .contItem{
+                    font-size: 100%;
+                    width: auto;
+                    a{
+                        color: black;
+                        text-decoration: none;
+                        &:hover{
+                            color: white;
+                        }
+                    }
+                }
+            }
+            .dropCont{
+                display: none;
+                position: absolute;
+            }
+        }
+    }
+}
+
+.footer{
+    width: 100%;
+    .nopadmarg;
+    background-color: blue;
+    align-self: flex-end;
+}

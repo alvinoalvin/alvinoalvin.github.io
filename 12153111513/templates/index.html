@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--Meta tags-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        
+        <!--Using Less for Styling-->
+        <link rel="stylesheet" href="style.css">
+        <title>Midterm 2 Sample</title>
+    </head>
+    <body>
+        <header><h1>Langara Criminal Division</h1></header>
+        {% if currFN != "" %}
+            <div class="profileInfo">
+                <div class="innerdiv">
+                    {% for criminal in crim %}
+                        Profile: <br> 
+                        First Name: {{criminal['firstname']}} <br>
+                        Last Name: {{criminal['lastname']}} <br>
+                        Height: {{criminal['height']}} <br>
+                        Shoe Size: {{criminal['shoesize']}} <br>
+                        Eye Color: {{criminal['eyecolor']}} <br>
+                        Last Known Location: {{criminal['lastknownlocation']}} <br>
+                        Aliases: {{criminal['aliases']}} <br>
+                        Num pages: {{criminal['numpages']}}
+                    {% endfor %}
+                </div>
+            </div>   
+            <div class="dosier">
+                {{page[0][0]}}
+            </div>
+            <div class="page">
+                {% for i in 1..pagenum %}
+                    <a href="index.php? FNAME={{currFN}}&LNAME={{currLN}}&pnum={{i}}"/>pnum {{i}}</a>
+                {% endfor %}
+            </div>
+        {% endif %}
+        <div class="tbOfCriminals">
+            <table>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                </tr>
+                {% for crim in table %}
+                    <tr>
+                        <td> <a href="index.php?FNAME={{crim['firstname']}}&LNAME={{crim['lastname']}}&pnum=1">{{crim['firstname']}}</a></td>
+                        <td> <a href="index.php?FNAME={{crim['firstname']}}&LNAME={{crim['lastname']}}&pnum=1">{{crim['lastname']}}</a></td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>

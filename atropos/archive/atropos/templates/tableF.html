@@ -1,0 +1,19 @@
+<div class="content">
+    <h1>{{subtitle}}</h1>
+        <div class="itemcontainer">
+            {%for item in contArr%}
+            {% if item['Picture F'] != NULL%}
+            <div class="itemdiv">
+                <img src="{{item['Picture F']}}"></img><br>
+                {{item['TYPE']}}<br>
+                Color: {{item['Color']}}<br>
+                Size: {{item['Size']}}<br>
+                Amount Left: {{item['Quantity']}}<br>
+                Price: ${{item['Price']}} <br>  
+            </div> 
+            {%endif%}
+            {% endfor %}
+        </div>
+        </tr>
+    </table>
+</div>
