@@ -11,9 +11,7 @@
   font-family: 'Poiret One', cursive;
 }
 * a {
-  font-weight: bolder;
   text-decoration: none;
-  color: black;
 }
 body {
   color: black;
@@ -22,9 +20,14 @@ body #header {
   background-color: whitesmoke;
   height: 10vh;
 }
+body #header a {
+  font-weight: bolder;
+  text-decoration: none;
+  color: black;
+}
 body #header h1 {
   height: 70%;
-  font-size: 50px;
+  font-size: 5vh;
 }
 body #header h1 a {
   font-family: 'Poiret One', cursive;
@@ -38,7 +41,6 @@ body #header nav {
 }
 body #header nav a {
   width: 30%;
-  color: black;
 }
 body #header nav a:hover {
   background-color: #dfdfdf;
@@ -51,7 +53,7 @@ body #bio img {
   height: 50%;
   width: 30%;
 }
-body #bio .Languages {
+body #bio .languages {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -59,7 +61,7 @@ body #bio .Languages {
   width: 50%;
   padding-left: 25%;
 }
-body #bio .Languages a {
+body #bio .languages a {
   color: white;
   border: solid white;
   padding: 10px 20px;
